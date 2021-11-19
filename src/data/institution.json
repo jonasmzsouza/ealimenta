@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nome": "EE Ada Lovelace"
+  },
+  {
+    "id": 2,
+    "nome": "EE Alan Turin"
+  },
+  {
+    "id": 3,
+    "nome": "EMEI Charles Babbage"
+  },
+  {
+    "id": 4,
+    "nome": "CEI Tim Berners Lee"
+  }
+]
